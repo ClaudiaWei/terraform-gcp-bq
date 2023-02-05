@@ -1,0 +1,14 @@
+[
+  {
+    "name": "name",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "The name"
+  },
+  {
+    "name": "comment",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "The comment"
+  }
+]
