@@ -1,5 +1,5 @@
 variable "region" {
-  default = "us-west"
+  default = "us-west1"
 }
 
 variable "env" {
